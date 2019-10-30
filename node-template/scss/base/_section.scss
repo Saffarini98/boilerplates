@@ -1,0 +1,20 @@
+section {
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+  .title{
+    color: black;
+
+  }
+  div {
+    color: $secondary;
+  }
+  &.paper{
+    div{
+      text-align: justify;
+    }
+  }
+}
+// #first{
+//   background-color: yellow;
+// }
